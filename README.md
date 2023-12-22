@@ -1,5 +1,5 @@
 # Incredibox, full version
-This repository contains the **original code** of the mobile version of Incredibox, extracted and modified to work on a web page. _(it's a kind of port)_
+This repository contains the **original code** of the mobile version of Incredibox, specifically v0.5.7. I extracted and modified it to work on a web page. _(it's a kind of port)_
 ## Why the v9 is here?
 > - I was able to backport v9, but due to changes in the Incredibox app's code, I had to redo every little thing to fit the old code and make it work. Now it's ready and working! _(i think lol)_
 ### ***All of this is property of SO FAR SO GOOD***, i'm just a guy who "borrowed" his code and modified it lol.

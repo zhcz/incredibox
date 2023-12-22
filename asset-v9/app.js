@@ -88,7 +88,7 @@ var app = new function() {
         aspire: "aspire_flow"
     },{
         name: "URFO",
-        src: "v9-b1-urfo-hb-hd.webm",
+        src: "v9-b2-urfo-hb-hd.webm",
         code: "1,2,3,16,20",
         sound: "22_bonus_urfo",
         aspire: "aspire_urfo"
